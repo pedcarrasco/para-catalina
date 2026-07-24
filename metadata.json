@@ -1,0 +1,6 @@
+{
+  "name": "Para Catalina",
+  "description": "Una experiencia romántica e interactiva con girasoles, animaciones y música para Catalina.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
